@@ -1,6 +1,6 @@
  #!/bin/bash
    n=0
-   while (($n<500))
+   while (($n<370))
    do
        sh 1.sh
         n=$((n+1))
